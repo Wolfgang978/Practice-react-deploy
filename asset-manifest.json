@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Practice-react-deploy/static/css/main.9bd7a35e.css",
+    "main.js": "/Practice-react-deploy/static/js/main.bff7838f.js",
+    "index.html": "/Practice-react-deploy/index.html",
+    "main.9bd7a35e.css.map": "/Practice-react-deploy/static/css/main.9bd7a35e.css.map",
+    "main.bff7838f.js.map": "/Practice-react-deploy/static/js/main.bff7838f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bd7a35e.css",
+    "static/js/main.bff7838f.js"
+  ]
+}
